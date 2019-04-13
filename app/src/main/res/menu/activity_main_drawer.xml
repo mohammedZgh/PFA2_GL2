@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_seconnecter"
+            android:icon="@drawable/ic_account"
+            android:title="Se connecter" />
+        <item
+            android:id="@+id/nav_senregistrer"
+            android:title="S'enregistrer"
+            android:icon="@drawable/ic_person" />
+        <item
+            android:id="@+id/nav_condition"
+            android:title="Conditions d'utilisation et régle de confidentialité "
+            android:icon="@drawable/ic_lock" />
+        <item
+            android:id="@+id/nav_help"
+            android:title="Aide et commentaires"
+            android:icon="@drawable/ic_help" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

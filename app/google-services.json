@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245799492874",
+    "firebase_url": "https://pfa2gl-4499a.firebaseio.com",
+    "project_id": "pfa2gl-4499a",
+    "storage_bucket": "pfa2gl-4499a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245799492874:android:6013aa6e7e85f725",
+        "android_client_info": {
+          "package_name": "ensias.um5.com.pfa2_gl2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245799492874-5pljqcndhbhcm301okmb59h281p76nn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWPm95erQbwIkbPiWYDRf4umn4F8hqqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245799492874-5pljqcndhbhcm301okmb59h281p76nn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
